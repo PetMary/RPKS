@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WpfApp_1/1.0.0": {
+        "dependencies": {
+          "Petrova.WPF.MVVM": "1.0.0"
+        },
+        "runtime": {
+          "WpfApp_1.dll": {}
+        }
+      },
+      "Petrova.WPF.MVVM/1.0.0": {
+        "dependencies": {
+          "Petrova.WPF.MVVM.Core": "1.0.0"
+        },
+        "runtime": {
+          "Petrova.WPF.MVVM.dll": {}
+        }
+      },
+      "Petrova.WPF.MVVM.Core/1.0.0": {
+        "runtime": {
+          "Petrova.WPF.MVVM.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Petrova.WPF.MVVM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Petrova.WPF.MVVM.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

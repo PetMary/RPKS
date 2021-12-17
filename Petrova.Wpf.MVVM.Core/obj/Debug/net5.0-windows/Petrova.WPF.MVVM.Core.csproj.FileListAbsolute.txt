@@ -1,0 +1,12 @@
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\bin\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.deps.json
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\bin\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.dll
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\bin\Debug\net5.0-windows\ref\Petrova.WPF.MVVM.Core.dll
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\bin\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.pdb
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\obj\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.csproj.AssemblyReference.cache
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\obj\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\obj\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.AssemblyInfoInputs.cache
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\obj\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.AssemblyInfo.cs
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\obj\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\obj\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.dll
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\obj\Debug\net5.0-windows\ref\Petrova.WPF.MVVM.Core.dll
+C:\Users\Мария\VisualStudio\WpfApp_1\Petrova.Wpf.MVVM.Core\obj\Debug\net5.0-windows\Petrova.WPF.MVVM.Core.pdb
